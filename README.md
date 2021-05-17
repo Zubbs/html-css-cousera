@@ -1,3 +1,3 @@
 # html-css-cousera
-static site built on cousera
+static site built with cousera course
 
